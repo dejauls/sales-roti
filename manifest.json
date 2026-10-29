@@ -1,0 +1,21 @@
+{
+  "id": "./",
+  "name": "kalkulator roti — Hitung Sisa Roti",
+  "short_name": "kalkulator roti",
+  "description": "Kalkulator sisa Roti dan total penjualan untuk Roti Petak dan Roti Panjang.",
+  "lang": "id-ID",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f8fafc",
+  "theme_color": "#0f766e",
+  "icons": [
+    {
+      "src": "./icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
